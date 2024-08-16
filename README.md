@@ -4,20 +4,16 @@ Welcome to the Real-Time Chat Room! This project is a Python-based application t
 
 Features :-
 
-Real-Time Communication: Users can send and receive messages instantly.
-
-Multi-User Support: Multiple users can join the chat simultaneously.
-
-User-Friendly Interface: Simple and intuitive interface for easy use.
-
-Scalable: Can be extended to support more features and users.
+Real-Time Communication: Users can send and receive messages instantly.<br>
+Multi-User Support: Multiple users can join the chat simultaneously.<br>
+User-Friendly Interface: Simple and intuitive interface for easy use.<br>
+Scalable: Can be extended to support more features and users.<br>
 
 Technologies Used :-
 
-Python: The core programming language used for the project.
-
-Socket Library: Utilized for handling network connections and communication.
+Python: The core programming language used for the project.<br>
+Socket Library: Utilized for handling network connections and communication<br>
 
 Contributing :- 
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
