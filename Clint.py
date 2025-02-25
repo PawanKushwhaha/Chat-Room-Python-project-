@@ -67,8 +67,8 @@ def sendmsg():
 	global s
 	if s==0:
 		s=socket.socket()
-		hostname='DESKTOP-7C41EV3'
-		port=4050
+		hostname='DESKTOP-7C53EV6'
+		port=3040
 		s.connect((hostname,port))
 		msg=messagebox.get()
 		lstbx.insert(0,"You : "+msg)
